@@ -50,14 +50,14 @@ img {
   height:50%;
 }
 
-.showcase {
+.img2 {
   width:100%;
   height: 100vh;
   position:relative;
   background: url('../img/background.jpg') no-repeat center center/cover;
 }
 
-.showcase::after {
+.img2::after {
   content: '';
   position: absolute;
   top: 0;
