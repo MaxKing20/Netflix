@@ -177,14 +177,3 @@ form.placeholder{
   opacity: 0.9;
 }
 
-.container2 {
-  width: 100%;
-  overflow-x: hidden;
-  display: block;
-  border-bottom: 8px solid #222;
-  margin-bottom: 0;
-  color:black;
-  padding: 70px 45px;
-  justify-content: left;
-}
-
